@@ -19,7 +19,6 @@ public class Main {
         FilmItem filmItem7 = new FilmItem(7, "Номер один", "комедия");
         filmManager.save(filmItem7);
 
-        //filmManager.findAll();
         System.out.println("");
 
     }
